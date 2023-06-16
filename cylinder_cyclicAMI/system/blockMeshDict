@@ -28,7 +28,7 @@ maxz  0.005;
 // number of sprit
 nx 150;
 ny 100;
-nz 1;
+nz 20;
 
 vertices
 (
